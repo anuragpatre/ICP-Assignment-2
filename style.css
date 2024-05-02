@@ -1,0 +1,12 @@
+.text{
+    color: wheat;
+    background-color: black;
+}    
+ .bg-blue{
+    background-color: blue;
+    color: white;
+ }
+ .bg-orange{
+    background-color: orange;
+    color: white;
+ }
